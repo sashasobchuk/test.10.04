@@ -1,0 +1,8 @@
+.fotoPage{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: row wrap;
+
+}

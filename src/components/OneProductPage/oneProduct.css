@@ -1,0 +1,80 @@
+.oneItem{
+    position: relative;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: sandybrown;
+    /*text-align: center;*/
+}
+.oneItem  a >img{
+    margin-top: 50px;
+}
+
+.ProductName{
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    width: 100%;
+}
+.properties{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 7px;
+}
+.commentValue{
+    text-align: left;
+    max-width:70%;
+    text-overflow: clip ;
+
+}
+.deleteComment{
+    position: absolute;
+right: 0;
+}
+.commentDate{
+    position: absolute;
+    right: 30px;
+}
+
+.oneItem img{
+    /*position: absolute;*/
+    width: 90%;
+    margin: 5%;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.coments{
+    position: relative;
+    margin-left: 7px;
+
+}
+.addComment{
+    text-align: center;
+
+}
+.btn_addComment{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.btn_addComment:hover{
+    transform: scale(1.2);
+}
+.editBotton{
+    position: absolute;
+    right: 0;
+
+}
+
+
+
+
+
+
+
+
+

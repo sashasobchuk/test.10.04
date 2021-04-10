@@ -1,0 +1,14 @@
+.editDisplay{
+    z-index: 2;
+    position: fixed;
+    background-color: rosybrown;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    overflow: scroll;
+    text-align: center;
+}
+.btn_makeChange{
+
+}
